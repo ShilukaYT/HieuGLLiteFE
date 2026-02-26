@@ -62,7 +62,7 @@
     "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite",
     "oem": "BlueStacks_msi5",
     "icon": "https://cdn.lo4d.com/t/icon/128/msi-app-player.png",
-    "background": "https://file.hstatic.net/200000722513/file/msi-app-player-1_3cfcd4a29ca94770a812f19fc65ec7ef_1024x1024.jpg",
+    "background": "https://storage-asset.msi.com/event/2024/Corp/MSI-App-Player/images/App_Player_kv.jpg",
     "requiredSize": 10737418240,
     "exeName": "HD-Player.exe",
     "versions": [
