@@ -10,26 +10,86 @@
     "exeName": "HD-Player.exe",
     "versions": [
       {
-        "ver": "5.21.660",
-        "downloadURL": "https://link-tai-bluestacks-goc.exe",
-        "fileName": "BlueStacks-5.21.660.exe",
-        "fileSize": 1258291200,
+        "ver": "5.22.51",
+        "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/BlueStacksInstaller_5.22.51.1038_native.exe",
+        "fileName": "BlueStacksInstaller_5.22.51.1038_native.exe",
+        "fileSize": 143654912,
+        "SHA256": "03449cfde8752d436bfe03359d8184d17791757f45c8c62b445dc6e804d968aa",
         "androids": [
           {
-            "name": "Android 11",
-            "code": "Rvc64",
-            "downloadURL": "https://link-tai-data-rvc64.zip",
-            "fileSize": 536870912,
-            "fileName":"Rvc64.bin",
-            "systemFile": "Root.vhd"
+            "name": "Android 7 (32bit)",
+            "code": "Nougat32",
+            "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/Nougat32_GG.bin",
+            "fileSize": 498073600,
+            "fileName":"Nougat32.bin",
+            "systemFile": "Root.vhd",
+            "SHA256": "04C4D3E2961666953F22F1C718480AED961B6BEF720D1842BA584D65B3123C85"
           },
           {
             "name": "Android 9",
             "code": "Pie64",
-            "downloadURL": "https://link-tai-data-pie64.zip",
-            "fileSize": 419430400,
+            "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/Pie64.bin",
+            "fileSize": 625999872,
             "fileName":"Pie64.bin",
-            "systemFile": "Root.vhd"
+            "systemFile": "Root.vhd",
+            "SHA256": "afb1efcb2f2dc5c97ca851fff4f00ab23e44308e599a66b2030c23a606c02054"
+          },
+          {
+            "name": "Android 11",
+            "code": "Rvc64",
+            "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/Rvc64.bin",
+            "fileSize": 630194176,
+            "fileName":"Rvc64.bin",
+            "systemFile": "Root.vhd",
+            "SHA256": "eb938f16a22193a36df14228c7ee7c95ee8e0745d2c49509231af6fc374d5a44"
+          },
+          {
+            "name": "Android 13",
+            "code": "Tiramisu64",
+            "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/Tiramisu64.bin",
+            "fileSize": 794820608,
+            "fileName":"Tiramisu64.bin",
+            "systemFile": "Root.vhd",
+            "SHA256": "c2dd9f94a8cddf51edc3d37569b2871213b93af8a6f78ec1eb6cb699a7344cc2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "msi5",
+    "name": "MSI App Player 5",
+    "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite",
+    "oem": "BlueStacks_msi5",
+    "icon": "https://cdn.lo4d.com/t/icon/128/msi-app-player.png",
+    "background": "https://file.hstatic.net/200000722513/file/msi-app-player-1_3cfcd4a29ca94770a812f19fc65ec7ef_1024x1024.jpg",
+    "requiredSize": 10737418240,
+    "exeName": "HD-Player.exe",
+    "versions": [
+      {
+        "ver": "5.22.75",
+        "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/BlueStacksInstaller_5.22.75.6322_native.exe",
+        "fileName": "BlueStacksInstaller_5.22.75.6322_native.exe",
+        "fileSize": 141557760,
+        "SHA256": "0d635d08814e11993f9cc47c5c8fc2ea8961ce9524510e04dbfc125d321a243d",
+        "androids": [
+          {
+            "name": "Android 7 (32bit)",
+            "code": "Nougat32",
+            "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/MSI_Nougat32_GG.db",
+            "fileSize": 518023168,
+            "fileName":"Nougat32.db",
+            "systemFile": "Root.vhd",
+            "SHA256": "fe857c3d307d33a9af1b588d8e0e84e3ef1d854c979604697498af54f0ae6c6a"
+          },
+          {
+            "name": "Android 9",
+            "code": "Pie64",
+            "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/MSI_Pie64.db",
+            "fileSize": 625999872,
+            "fileName":"Pie64.db",
+            "systemFile": "Root.vhd",
+            "SHA256": "4613c275af77e8bf5130007f351b2d13b6c89e14a844901fcd6701fb21f31d94"
           }
         ]
       }
