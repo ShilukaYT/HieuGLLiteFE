@@ -2,24 +2,35 @@
   {
     "id": "bs5",
     "name": "BlueStacks 5",
-    "desc": "Emulator Android số 1 thế giới. Tối ưu cho PC của bạn.",
+    "desc": "Trình giả lập số 1 thế giới, nâng tầm trải nghiệm chơi game đỉnh cao, được modify bởi Hiếu GL Lite",
     "oem": "BlueStacks_nxt",
     "icon": "https://cdn-www.bluestacks.com/bs-images/logo-icon.png",
-    "background": "https://support.bluestacks.com/hc/article_attachments/29496373485965",
-    "isLauncherRequired": false,
-    "roleRequired": "",
+    "background": "https://cdn-www.bluestacks.com/bs-images/multi-instance-feature-bg.jpeg",
+    "requiredSize": 10737418240,
+    "exeName": "HD-Player.exe",
     "versions": [
       {
         "ver": "5.21.660",
+        "downloadURL": "https://link-tai-bluestacks-goc.exe",
+        "fileName": "BlueStacks-5.21.660.exe",
+        "fileSize": 1258291200,
         "androids": [
-          { "name": "Android 11", "code": "Rvc64" },
-          { "name": "Android 9", "code": "Pie64" }
-        ]
-      },
-      {
-        "ver": "5.10.0",
-        "androids": [
-          { "name": "Android 7", "code": "Nougat32" }
+          {
+            "name": "Android 11",
+            "code": "Rvc64",
+            "downloadURL": "https://link-tai-data-rvc64.zip",
+            "fileSize": 536870912,
+            "fileName":"Rvc64.bin",
+            "systemFile": "Root.vhd"
+          },
+          {
+            "name": "Android 9",
+            "code": "Pie64",
+            "downloadURL": "https://link-tai-data-pie64.zip",
+            "fileSize": 419430400,
+            "fileName":"Pie64.bin",
+            "systemFile": "Root.vhd"
+          }
         ]
       }
     ]
