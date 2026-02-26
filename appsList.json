@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bs5",
+    "name": "BlueStacks 5",
+    "desc": "Emulator Android số 1 thế giới. Tối ưu cho PC của bạn.",
+    "oem": "BlueStacks_nxt",
+    "icon": "https://cdn-www.bluestacks.com/bs-images/logo-icon.png",
+    "background": "https://support.bluestacks.com/hc/article_attachments/29496373485965",
+    "isLauncherRequired": false,
+    "roleRequired": "",
+    "versions": [
+      {
+        "ver": "5.21.660",
+        "androids": [
+          { "name": "Android 11", "code": "Rvc64" },
+          { "name": "Android 9", "code": "Pie64" }
+        ]
+      },
+      {
+        "ver": "5.10.0",
+        "androids": [
+          { "name": "Android 7", "code": "Nougat32" }
+        ]
+      }
+    ]
+  }
+]
