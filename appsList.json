@@ -105,7 +105,15 @@
     "requiredSize": 10737418240,
     "exeName": "HD-Player.exe",
     "badge": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg",
-    "tags": ["Google Play Games", "Siêu nhẹ"],
+    "tags": [
+      {
+        "text": "Google Play Games",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg"
+      },
+      {
+        "text": "Siêu nhẹ"
+      }
+    ],
     "versions": [
       {
         "ver": "5.22.75",
