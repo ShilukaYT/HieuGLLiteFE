@@ -4,10 +4,13 @@
     "name": "BlueStacks 5",
     "desc": "Trình giả lập số 1 thế giới, nâng tầm trải nghiệm chơi game đỉnh cao, được modify bởi Hiếu GL Lite",
     "oem": "BlueStacks_nxt",
+    "rpc_large_key": "bluestacks",
+    "rpc_small_key": "GPG",
     "icon": "https://cdn-www.bluestacks.com/bs-images/logo-icon.png",
     "background": "https://cdn-www.bluestacks.com/bs-images/multi-instance-feature-bg.jpeg",
     "requiredSize": 10737418240,
     "exeName": "HD-Player.exe",
+    "requiredRoleID": "",
     "versions": [
       {
         "ver": "5.22.51",
@@ -61,10 +64,13 @@
     "name": "MSI App Player 5",
     "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite",
     "oem": "BlueStacks_msi5",
+    "rpc_large_key": "msi",
+    "rpc_small_key": "logo",
     "icon": "https://cdn.lo4d.com/t/icon/128/msi-app-player.png",
     "background": "https://storage-asset.msi.com/event/2024/Corp/MSI-App-Player/images/App_Player_kv.jpg",
     "requiredSize": 10737418240,
     "exeName": "HD-Player.exe",
+    "requiredRoleID": "",
     "versions": [
       {
         "ver": "5.22.75",
@@ -100,6 +106,8 @@
     "name": "MSI App Player 5",
     "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite",
     "oem": "BlueStacks_msi5",
+    "rpc_large_key": "msi",
+    "rpc_small_key": "GPG",
     "icon": "https://cdn.lo4d.com/t/icon/128/msi-app-player.png",
     "background": "https://storage-asset.msi.com/event/2024/Corp/MSI-App-Player/images/App_Player_kv.jpg",
     "requiredSize": 10737418240,
