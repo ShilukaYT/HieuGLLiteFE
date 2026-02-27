@@ -5,7 +5,7 @@
     "desc": "Trình giả lập số 1 thế giới, nâng tầm trải nghiệm chơi game đỉnh cao, được modify bởi Hiếu GL Lite",
     "oem": "BlueStacks_nxt",
     "rpc_large_key": "bluestacks",
-    "rpc_small_key": "GPG",
+    "rpc_small_key": "gpg",
     "icon": "https://cdn-www.bluestacks.com/bs-images/logo-icon.png",
     "background": "https://cdn-www.bluestacks.com/bs-images/multi-instance-feature-bg.jpeg",
     "requiredSize": 10737418240,
