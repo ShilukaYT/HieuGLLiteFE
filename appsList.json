@@ -94,5 +94,46 @@
         ]
       }
     ]
+  },
+  {
+    "id": "msi5_gpg",
+    "name": "MSI App Player 5",
+    "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite",
+    "oem": "BlueStacks_msi5",
+    "icon": "https://cdn.lo4d.com/t/icon/128/msi-app-player.png",
+    "background": "https://storage-asset.msi.com/event/2024/Corp/MSI-App-Player/images/App_Player_kv.jpg",
+    "requiredSize": 10737418240,
+    "exeName": "HD-Player.exe",
+    "badge": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg",
+    "tags": ["Google Play Games", "Siêu nhẹ"],
+    "versions": [
+      {
+        "ver": "5.22.75",
+        "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/BlueStacksInstaller_5.22.75.6322_native.exe",
+        "fileName": "BlueStacksInstaller_5.22.75.6322_native.exe",
+        "fileSize": 141557760,
+        "SHA256": "0d635d08814e11993f9cc47c5c8fc2ea8961ce9524510e04dbfc125d321a243d",
+        "androids": [
+          {
+            "name": "Android 7 (32bit)",
+            "code": "Nougat32",
+            "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/MSI_Nougat32_GG.db",
+            "fileSize": 518023168,
+            "fileName":"Nougat32.db",
+            "systemFile": "Root.vhd",
+            "SHA256": "fe857c3d307d33a9af1b588d8e0e84e3ef1d854c979604697498af54f0ae6c6a"
+          },
+          {
+            "name": "Android 9",
+            "code": "Pie64",
+            "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/MSI_Pie64.db",
+            "fileSize": 625999872,
+            "fileName":"Pie64.db",
+            "systemFile": "Root.vhd",
+            "SHA256": "4613c275af77e8bf5130007f351b2d13b6c89e14a844901fcd6701fb21f31d94"
+          }
+        ]
+      }
+    ]
   }
 ]
