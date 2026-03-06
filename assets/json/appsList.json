@@ -7,6 +7,7 @@
     "rpc_large_key": "bluestacks",
     "rpc_small_key": "base",
     "icon": "assets/images/icon/bs5.png",
+    "badge": null,
     "background": "assets/images/bg/bs5.jpg",
     "requiredSize": 10737418240,
     "exeName": "HD-Player.exe",
@@ -20,6 +21,7 @@
       }
     ],
     "requiredRoleID": "",
+    "isLauncherRequired": false,
     "versions": [
       {
         "ver": "5.22.51",
@@ -74,8 +76,9 @@
     "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite",
     "oem": "BlueStacks_msi5",
     "rpc_large_key": "msi",
-    "rpc_small_key": "logo",
+    "rpc_small_key": "base",
     "icon": "assets/images/icon/msi5.png",
+    "badge": null,
     "background": "assets/images/bg/msi5.jpg",
     "requiredSize": 10737418240,
     "exeName": "HD-Player.exe",
@@ -89,6 +92,7 @@
       }
     ],
     "requiredRoleID": "",
+    "isLauncherRequired": false,
     "versions": [
       {
         "ver": "5.22.75",
@@ -120,14 +124,14 @@
     ]
   },
   {
-    "id": "msi5_gpg",
-    "name": "MSI App Player 5",
-    "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite",
-    "oem": "BlueStacks_msi5",
-    "rpc_large_key": "msi",
+    "id": "bs5_gpg",
+    "name": "BlueStacks 5",
+    "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực tốt và ổn định, được modify bởi Hiếu GL Lite",
+    "oem": "BlueStacks_nxt",
+    "rpc_large_key": "bs5",
     "rpc_small_key": "GPG",
-    "icon": "https://cdn.lo4d.com/t/icon/128/msi-app-player.png",
-    "background": "https://storage-asset.msi.com/event/2024/Corp/MSI-App-Player/images/App_Player_kv.jpg",
+    "icon": "assets/images/icon/bs5.png",
+    "background": "assets/images/bg/BlueXBeta.jpg",
     "requiredSize": 10737418240,
     "exeName": "HD-Player.exe",
     "badge": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg",
@@ -140,31 +144,42 @@
         "text": "Siêu nhẹ"
       }
     ],
+    "requiredRoleID": "1467487666441420880",
+    "isLauncherRequired": true,
     "versions": [
       {
-        "ver": "5.22.75",
-        "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/BlueStacksInstaller_5.22.75.6322_native.exe",
-        "fileName": "BlueStacksInstaller_5.22.75.6322_native.exe",
-        "fileSize": 141557760,
+        "ver": "5.22.164",
+        "downloadURL": "https://bit.ly/4a74wWB",
+        "fileName": "BlueStacksInstaller_5.22.75_native.exe",
+        "fileSize": 143654912,
         "SHA256": "0d635d08814e11993f9cc47c5c8fc2ea8961ce9524510e04dbfc125d321a243d",
         "androids": [
           {
             "name": "Android 7 (32bit)",
             "code": "Nougat32",
-            "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/MSI_Nougat32_GG.db",
-            "fileSize": 518023168,
+            "downloadURL": "https://bit.ly/4kf8vVR",
+            "fileSize": 642777088,
             "fileName":"Nougat32.db",
-            "systemFile": "Root.vhd",
-            "SHA256": "fe857c3d307d33a9af1b588d8e0e84e3ef1d854c979604697498af54f0ae6c6a"
-          },
+            "systemFile": "Root.vhdx",
+            "SHA256": "5055b36e8b160c8d12cb3645ea24428977002a9bc919ee2ef71b6e0534efbdd0"
+          }
+        ]
+      },
+      {
+        "ver": "5.22.91",
+        "downloadURL": "https://bit.ly/4a74wWB",
+        "fileName": "BlueStacksInstaller_5.22.91_native.exe",
+        "fileSize": 143654912,
+        "SHA256": "2d4ff2918e8031dd311b3c5a6ce14a7d97e62744849273e5d6d5cea9c264a2f6",
+        "androids": [
           {
             "name": "Android 9",
             "code": "Pie64",
-            "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/MSI_Pie64.db",
-            "fileSize": 625999872,
+            "downloadURL": "https://bit.ly/4kf8vVR",
+            "fileSize": 642777088,
             "fileName":"Pie64.db",
-            "systemFile": "Root.vhd",
-            "SHA256": "4613c275af77e8bf5130007f351b2d13b6c89e14a844901fcd6701fb21f31d94"
+            "systemFile": "Root.vhdx",
+            "SHA256": "5055b36e8b160c8d12cb3645ea24428977002a9bc919ee2ef71b6e0534efbdd0"
           }
         ]
       }
