@@ -109,8 +109,8 @@
           {
             "name": "Android 9",
             "code": "Pie64",
-            "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/MSI_Pie64.db",
-            "fileSize": 625999872,
+            "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/MSI_Pie64_GG.db",
+            "fileSize": 635437056,
             "fileName":"Pie64.db",
             "systemFile": "Root.vhd",
             "SHA256": "4613c275af77e8bf5130007f351b2d13b6c89e14a844901fcd6701fb21f31d94"
