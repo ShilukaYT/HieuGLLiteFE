@@ -189,7 +189,7 @@
       "id": "bs5_cn_gpg",
       "name": "BlueStacks 5 China",
       "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực mượt nhờ khả năng tối ưu hóa của BlueStacks phiên bản China, được modify bởi Hiếu GL Lite",
-      "oem": "BlueStacks_nxt",
+      "oem": "BlueStacks_nxt_cn",
       "rpc_large_key": "bs5_cn",
       "rpc_small_key": "gpg",
       "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/icon/bs5_cn.png",
