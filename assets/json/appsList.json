@@ -35,7 +35,7 @@
               "code": "Nougat32",
               "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/Nougat32_GG.bin",
               "fileSize": 498073600,
-              "fileName":"Nougat32.bin",
+              "fileName": "Nougat32.bin",
               "systemFile": "Root.vhd",
               "SHA256": "04C4D3E2961666953F22F1C718480AED961B6BEF720D1842BA584D65B3123C85"
             },
@@ -44,7 +44,7 @@
               "code": "Pie64",
               "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/Pie64.bin",
               "fileSize": 625999872,
-              "fileName":"Pie64.bin",
+              "fileName": "Pie64.bin",
               "systemFile": "Root.vhd",
               "SHA256": "afb1efcb2f2dc5c97ca851fff4f00ab23e44308e599a66b2030c23a606c02054"
             },
@@ -53,7 +53,7 @@
               "code": "Rvc64",
               "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/Rvc64.bin",
               "fileSize": 630194176,
-              "fileName":"Rvc64.bin",
+              "fileName": "Rvc64.bin",
               "systemFile": "Root.vhd",
               "SHA256": "eb938f16a22193a36df14228c7ee7c95ee8e0745d2c49509231af6fc374d5a44"
             },
@@ -62,7 +62,7 @@
               "code": "Tiramisu64",
               "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/Tiramisu64.bin",
               "fileSize": 794820608,
-              "fileName":"Tiramisu64.bin",
+              "fileName": "Tiramisu64.bin",
               "systemFile": "Root.vhd",
               "SHA256": "c2dd9f94a8cddf51edc3d37569b2871213b93af8a6f78ec1eb6cb699a7344cc2"
             }
@@ -99,14 +99,14 @@
           "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/BlueStacksInstaller_5.22.75.6322_native.exe",
           "fileName": "BlueStacksInstaller_5.22.75.6322_native.exe",
           "fileSize": 141557760,
-          "SHA256": "0d635d08814e11993f9cc47c5c8fc2ea8961ce9524510e04dbfc125d321a243d",
+          "SHA256": "a771b2d8959dddeb88daff994360c4b7089beb024d0c513b7fbd26a964297172",
           "androids": [
             {
               "name": "Android 7 (32bit)",
               "code": "Nougat32",
               "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/MSI_Nougat32_GG.db",
               "fileSize": 518023168,
-              "fileName":"Nougat32.db",
+              "fileName": "Nougat32.db",
               "systemFile": "Root.vhd",
               "SHA256": "fe857c3d307d33a9af1b588d8e0e84e3ef1d854c979604697498af54f0ae6c6a"
             },
@@ -115,7 +115,7 @@
               "code": "Pie64",
               "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/MSI_Pie64_GG.db",
               "fileSize": 635437056,
-              "fileName":"Pie64.db",
+              "fileName": "Pie64.db",
               "systemFile": "Root.vhd",
               "SHA256": "4613c275af77e8bf5130007f351b2d13b6c89e14a844901fcd6701fb21f31d94"
             }
@@ -159,7 +159,7 @@
               "code": "Tiramisu64",
               "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/sdojvsvjolmlsdm",
               "fileSize": 1814577218,
-              "fileName":"Tiramisu64.db",
+              "fileName": "Tiramisu64.db",
               "systemFile": "Root.vhdx",
               "SHA256": "ac3eae83b3d6a2ec140ca5ad158c7af3dd18648fc3a52cdd485696ac04d18ba9"
             }
@@ -167,7 +167,7 @@
         },
         {
           "ver": "5.22.91",
-          "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/siuuux2",
+          "downloadURL": "https://bit.ly/4a74wWB",
           "fileName": "BlueStacksInstaller_5.22.91_native.exe",
           "fileSize": 143654912,
           "SHA256": "93175203eeb702b3546393f642df65c310e340fe575482d372c94fa24792d5dc",
@@ -177,7 +177,7 @@
               "code": "Pie64",
               "downloadURL": "https://bit.ly/4kf8vVR",
               "fileSize": 642777088,
-              "fileName":"Pie64.db",
+              "fileName": "Pie64.db",
               "systemFile": "Root.vhdx",
               "SHA256": "5055b36e8b160c8d12cb3645ea24428977002a9bc919ee2ef71b6e0534efbdd0"
             }
@@ -209,10 +209,9 @@
       "requiredRoleID": "1467487666441420880",
       "isLauncherRequired": true,
       "versions": [
-
         {
           "ver": "5.22.91",
-          "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/siuuuuuuuuuuuuuuuuuuuuuu/siuuu",
+          "downloadURL": "https://bit.ly/4ar8pa3",
           "fileName": "BlueStacksChinaInstaller_5.22.91_native.exe",
           "fileSize": 145752064,
           "SHA256": "a7845ad4f0632fd358332edb28ce9fee981a87793f14ee174d1662ccf529203e",
@@ -222,7 +221,7 @@
               "code": "Pie64",
               "downloadURL": "https://bit.ly/4qLwVIO",
               "fileSize": 591396864,
-              "fileName":"Pie64.db",
+              "fileName": "Pie64.db",
               "systemFile": "Root.vhdx",
               "SHA256": "9a20c2ba66536b362161f29168d175a49294c21cb7209aee9fb643f41746d22e"
             }
