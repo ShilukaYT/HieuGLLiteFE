@@ -99,7 +99,7 @@
           "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/BlueStacksInstaller_5.22.75.6322_native.exe",
           "fileName": "BlueStacksInstaller_5.22.75.6322_native.exe",
           "fileSize": 141557760,
-          "SHA256": "a771b2d8959dddeb88daff994360c4b7089beb024d0c513b7fbd26a964297172",
+          "SHA256":"4f128a5d913509688c2b4192a4c344b3b1bbf991ca029fb2eeea72511e7eaaf1",
           "androids": [
             {
               "name": "Android 7 (32bit)",
