@@ -37,7 +37,8 @@
               "fileSize": 498073600,
               "fileName": "Nougat32.bin",
               "systemFile": "Root.vhd",
-              "SHA256": "04C4D3E2961666953F22F1C718480AED961B6BEF720D1842BA584D65B3123C85"
+              "SHA256": "04C4D3E2961666953F22F1C718480AED961B6BEF720D1842BA584D65B3123C85",
+              "zipPassword": null
             },
             {
               "name": "Android 9",
@@ -46,7 +47,8 @@
               "fileSize": 625999872,
               "fileName": "Pie64.bin",
               "systemFile": "Root.vhd",
-              "SHA256": "afb1efcb2f2dc5c97ca851fff4f00ab23e44308e599a66b2030c23a606c02054"
+              "SHA256": "afb1efcb2f2dc5c97ca851fff4f00ab23e44308e599a66b2030c23a606c02054",
+              "zipPassword": null
             },
             {
               "name": "Android 11",
@@ -55,7 +57,8 @@
               "fileSize": 630194176,
               "fileName": "Rvc64.bin",
               "systemFile": "Root.vhd",
-              "SHA256": "eb938f16a22193a36df14228c7ee7c95ee8e0745d2c49509231af6fc374d5a44"
+              "SHA256": "eb938f16a22193a36df14228c7ee7c95ee8e0745d2c49509231af6fc374d5a44",
+              "zipPassword": null
             },
             {
               "name": "Android 13",
@@ -64,7 +67,8 @@
               "fileSize": 794820608,
               "fileName": "Tiramisu64.bin",
               "systemFile": "Root.vhd",
-              "SHA256": "c2dd9f94a8cddf51edc3d37569b2871213b93af8a6f78ec1eb6cb699a7344cc2"
+              "SHA256": "c2dd9f94a8cddf51edc3d37569b2871213b93af8a6f78ec1eb6cb699a7344cc2",
+              "zipPassword": null
             }
           ]
         }
@@ -108,7 +112,8 @@
               "fileSize": 518023168,
               "fileName": "Nougat32.db",
               "systemFile": "Root.vhd",
-              "SHA256": "fe857c3d307d33a9af1b588d8e0e84e3ef1d854c979604697498af54f0ae6c6a"
+              "SHA256": "fe857c3d307d33a9af1b588d8e0e84e3ef1d854c979604697498af54f0ae6c6a",
+              "zipPassword": null
             },
             {
               "name": "Android 9",
@@ -117,7 +122,8 @@
               "fileSize": 635437056,
               "fileName": "Pie64.db",
               "systemFile": "Root.vhd",
-              "SHA256": "4613c275af77e8bf5130007f351b2d13b6c89e14a844901fcd6701fb21f31d94"
+              "SHA256": "4613c275af77e8bf5130007f351b2d13b6c89e14a844901fcd6701fb21f31d94",
+              "zipPassword": null
             }
           ]
         }
@@ -161,7 +167,8 @@
               "fileSize": 1814577218,
               "fileName": "Tiramisu64.db",
               "systemFile": "Root.vhdx",
-              "SHA256": "ac3eae83b3d6a2ec140ca5ad158c7af3dd18648fc3a52cdd485696ac04d18ba9"
+              "SHA256": "ac3eae83b3d6a2ec140ca5ad158c7af3dd18648fc3a52cdd485696ac04d18ba9",
+              "zipPassword": "HieuGLLite-Compressed"
             }
           ]
         },
@@ -179,7 +186,8 @@
               "fileSize": 642777088,
               "fileName": "Pie64.db",
               "systemFile": "Root.vhdx",
-              "SHA256": "5055b36e8b160c8d12cb3645ea24428977002a9bc919ee2ef71b6e0534efbdd0"
+              "SHA256": "5055b36e8b160c8d12cb3645ea24428977002a9bc919ee2ef71b6e0534efbdd0",
+              "zipPassword": "HieuGLLite-Compressed"
             }
           ]
         }
@@ -223,7 +231,8 @@
               "fileSize": 591396864,
               "fileName": "Pie64.db",
               "systemFile": "Root.vhdx",
-              "SHA256": "9a20c2ba66536b362161f29168d175a49294c21cb7209aee9fb643f41746d22e"
+              "SHA256": "9a20c2ba66536b362161f29168d175a49294c21cb7209aee9fb643f41746d22e",
+              "zipPassword": "HieuGLLite-Compressed"
             }
           ]
         }
