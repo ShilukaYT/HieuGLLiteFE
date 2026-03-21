@@ -9,6 +9,7 @@
       "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/icon/bs5.png",
       "badge": null,
       "background": "assets/images/bg/bs5.jpg",
+      "isVerifyRequired": false,
       "requiredSize": 10737418240,
       "exeName": "HD-Player.exe",
       "tags": [
@@ -84,6 +85,7 @@
       "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/icon/msi5.png",
       "badge": null,
       "background": "assets/images/bg/msi5.jpg",
+      "isVerifyRequired": false,
       "requiredSize": 10737418240,
       "exeName": "HD-Player.exe",
       "tags": [
@@ -138,6 +140,7 @@
       "rpc_small_key": "gpg",
       "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/icon/bs5.png",
       "background": "assets/images/bg/BlueXBeta.jpg",
+      "isVerifyRequired": true,
       "requiredSize": 16106127360,
       "exeName": "HD-Player.exe",
       "badge": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg",
@@ -202,6 +205,7 @@
       "rpc_small_key": "gpg",
       "icon": "https://raw.githubusercontent.com/ShilukaYT/HieuGLLiteFE/refs/heads/main/assets/images/icon/bs5_cn.png",
       "background": "assets/images/bg/BlueXBeta.jpg",
+      "isVerifyRequired": true,
       "requiredSize": 10737418240,
       "exeName": "HD-Player.exe",
       "badge": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg",
