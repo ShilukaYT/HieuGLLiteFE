@@ -25,6 +25,25 @@
       "isLauncherRequired": false,
       "versions": [
         {
+          "ver": "5.22.167",
+          "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/522167.exe",
+          "fileName": "BlueStacksInstaller_5.22.167_native.exe",
+          "fileSize": 154140672,
+          "SHA256": "bd2ff1a5a39060f4b907ffd58f424ba9a4b2b85327b8d1793a1a943ec97db0c3",
+          "androids": [
+            {
+              "name": "Android 9",
+              "code": "Pie64",
+              "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/522167_Pie64.db",
+              "fileSize": 1246284959,
+              "fileName": "Pie64.db",
+              "systemFile": "Root.vhd",
+              "SHA256":"20baf0ef73fa069b6d3b156eca16103aa63331c0636541db783301b8bca45146",
+              "zipPassword": null
+            }
+          ]
+        },
+        {
           "ver": "5.22.51",
           "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/BlueStacksInstaller_5.22.51.1038_native.exe",
           "fileName": "BlueStacksInstaller_5.22.51.1038_native.exe",
@@ -72,26 +91,8 @@
               "zipPassword": null
             }
           ]
-        },
-        {
-          "ver": "5.22.167",
-          "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/522167.exe",
-          "fileName": "BlueStacksInstaller_5.22.167_native.exe",
-          "fileSize": 154140672,
-          "SHA256": "bd2ff1a5a39060f4b907ffd58f424ba9a4b2b85327b8d1793a1a943ec97db0c3",
-          "androids": [
-            {
-              "name": "Android 9",
-              "code": "Pie64",
-              "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/522167_Pie64.db",
-              "fileSize": 1246284959,
-              "fileName": "Pie64.db",
-              "systemFile": "Root.vhd",
-              "SHA256":"20baf0ef73fa069b6d3b156eca16103aa63331c0636541db783301b8bca45146",
-              "zipPassword": null
-            }
-          ]
         }
+        
       ]
     },
     {
