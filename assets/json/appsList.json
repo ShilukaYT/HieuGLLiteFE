@@ -2,7 +2,7 @@
     {
       "id": "bs5",
       "name": "BlueStacks 5",
-      "desc": "Trình giả lập số 1 thế giới, nâng tầm trải nghiệm chơi game đỉnh cao với khả năng tối ưu tốt, tương thích đa dạng với các thiết bị, được modify bởi Hiếu GL Lite",
+      "desc": "Trình giả lập số 1 thế giới, nâng tầm trải nghiệm chơi game đỉnh cao với khả năng tối ưu tốt, tương thích đa dạng với các thiết bị, được modify bởi Hiếu GL Lite | The world's #1 emulator, elevating the ultimate gaming experience with great optimization and diverse device compatibility, modified by Hieu GL Lite.",
       "oem": "BlueStacks_nxt",
       "rpc_large_key": "bluestacks",
       "rpc_small_key": "base",
@@ -10,7 +10,7 @@
       "badge": null,
       "background": "assets/images/bg/bs5.jpg",
       "isVerifyRequired": false,
-      "requiredSize": 10737418240,
+      "requiredSize": 16106127360,
       "exeName": "HD-Player.exe",
       "tags": [
         {
@@ -18,12 +18,34 @@
           "icon": "mdi-google-play"
         },
         {
-          "text": "Siêu nhẹ"
+          "text": "Siêu nhẹ | Smooth"
+        },
+        {
+          "text": "Không quảng cáo | No Ads"
         }
       ],
       "requiredRoleID": "",
       "isLauncherRequired": false,
       "versions": [
+        {
+          "ver": "5.22.167",
+          "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/522167.exe",
+          "fileName": "BlueStacksInstaller_5.22.167_native.exe",
+          "fileSize": 154140672,
+          "SHA256": "bd2ff1a5a39060f4b907ffd58f424ba9a4b2b85327b8d1793a1a943ec97db0c3",
+          "androids": [
+            {
+              "name": "Android 9",
+              "code": "Pie64",
+              "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/522167_Pie64.db",
+              "fileSize": 1246284959,
+              "fileName": "Pie64.db",
+              "systemFile": "Root.vhd",
+              "SHA256":"20baf0ef73fa069b6d3b156eca16103aa63331c0636541db783301b8bca45146",
+              "zipPassword": null
+            }
+          ]
+        },
         {
           "ver": "5.22.51",
           "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.22/BlueStacksInstaller_5.22.51.1038_native.exe",
@@ -73,12 +95,13 @@
             }
           ]
         }
+        
       ]
     },
     {
       "id": "msi5",
       "name": "MSI App Player 5",
-      "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite",
+      "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite | A collaborative emulator between MSI and BlueStacks, providing a smooth experience on MSI hardware, modified by Hieu GL Lite.",
       "oem": "BlueStacks_msi5",
       "rpc_large_key": "msi",
       "rpc_small_key": "base",
@@ -94,7 +117,10 @@
           "icon": "mdi-google-play"
         },
         {
-          "text": "Siêu nhẹ"
+          "text": "Siêu nhẹ | Smooth"
+        },
+        {
+          "text": "Không quảng cáo | No Ads"
         }
       ],
       "requiredRoleID": "",
@@ -105,7 +131,7 @@
           "downloadURL": "https://github.com/Hieu-dev-v2/emuSource/releases/download/msi_5.22/BlueStacksInstaller_5.22.75.6322_native.exe",
           "fileName": "BlueStacksInstaller_5.22.75.6322_native.exe",
           "fileSize": 141557760,
-          "SHA256":"4f128a5d913509688c2b4192a4c344b3b1bbf991ca029fb2eeea72511e7eaaf1",
+          "SHA256": "4f128a5d913509688c2b4192a4c344b3b1bbf991ca029fb2eeea72511e7eaaf1",
           "androids": [
             {
               "name": "Android 7 (32bit)",
@@ -134,7 +160,7 @@
     {
       "id": "bs5_gpg",
       "name": "BlueStacks 5",
-      "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực tốt và ổn định, được modify bởi Hiếu GL Lite",
+      "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực tốt và ổn định, được modify bởi Hiếu GL Lite | This is a custom emulator for installing games from Google Play Games, excellent performance and stability, modified by Hieu GL Lite.",
       "oem": "BlueStacks_nxt",
       "rpc_large_key": "bluestacks",
       "rpc_small_key": "gpg",
@@ -150,7 +176,15 @@
           "icon": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg"
         },
         {
-          "text": "Siêu nhẹ"
+          "text": "Siêu nhẹ | Smooth"
+        },{
+          "text": "Tối ưu hóa | Optimized"
+        },  
+        {
+          "text": "Ram ảo | Virtual Memory"
+        },
+        {
+          "text": "Không quảng cáo | No Ads"
         }
       ],
       "requiredRoleID": "1467487666441420880",
@@ -180,7 +214,7 @@
           "downloadURL": "https://bit.ly/4a74wWB",
           "fileName": "BlueStacksInstaller_5.22.91_native.exe",
           "fileSize": 143654912,
-          "SHA256":"af50d393f224f6e3d2a973438ba03f6f0c467b0e58fccac1758430d5a3db6826",
+          "SHA256": "af50d393f224f6e3d2a973438ba03f6f0c467b0e58fccac1758430d5a3db6826",
           "androids": [
             {
               "name": "Android 9",
@@ -199,7 +233,7 @@
     {
       "id": "bs5_cn_gpg",
       "name": "BlueStacks 5 China",
-      "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực mượt nhờ khả năng tối ưu hóa của BlueStacks phiên bản China, được modify bởi Hiếu GL Lite",
+      "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực mượt nhờ khả năng tối ưu hóa của BlueStacks phiên bản China, được modify bởi Hiếu GL Lite | This is a custom emulator for installing games from Google Play Games, extremely smooth performance thanks to BlueStacks China's optimization, modified by Hieu GL Lite.",
       "oem": "BlueStacks_nxt_cn",
       "rpc_large_key": "bs5_cn",
       "rpc_small_key": "gpg",
@@ -215,7 +249,16 @@
           "icon": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg"
         },
         {
-          "text": "Siêu nhẹ"
+          "text": "Siêu nhẹ | Smooth"
+        },
+        {
+          "text":"Tối ưu hóa | Optimized"
+        },
+        {
+          "text":"Ram ảo | Virtual Memory"
+        },
+        {
+          "text": "Không quảng cáo | No Ads"
         }
       ],
       "requiredRoleID": "1467487666441420880",
