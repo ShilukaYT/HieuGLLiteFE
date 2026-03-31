@@ -2,7 +2,7 @@
     {
       "id": "bs5",
       "name": "BlueStacks 5",
-      "desc": "Trình giả lập số 1 thế giới, nâng tầm trải nghiệm chơi game đỉnh cao với khả năng tối ưu tốt, tương thích đa dạng với các thiết bị, được modify bởi Hiếu GL Lite",
+      "desc": "Trình giả lập số 1 thế giới, nâng tầm trải nghiệm chơi game đỉnh cao với khả năng tối ưu tốt, tương thích đa dạng với các thiết bị, được modify bởi Hiếu GL Lite | The world's #1 emulator, elevating the ultimate gaming experience with great optimization and diverse device compatibility, modified by Hieu GL Lite.",
       "oem": "BlueStacks_nxt",
       "rpc_large_key": "bluestacks",
       "rpc_small_key": "base",
@@ -18,7 +18,10 @@
           "icon": "mdi-google-play"
         },
         {
-          "text": "Siêu nhẹ"
+          "text": "Siêu nhẹ | Smooth"
+        },
+        {
+          "text": "Không quảng cáo | No Ads"
         }
       ],
       "requiredRoleID": "",
@@ -98,7 +101,7 @@
     {
       "id": "msi5",
       "name": "MSI App Player 5",
-      "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite",
+      "desc": "Trình giả lập cộng tác giữa MSI và BlueStacks, giúp trải nghiệm mượt mà trên các phần cứng của MSI, được modify bởi Hiếu GL Lite | A collaborative emulator between MSI and BlueStacks, providing a smooth experience on MSI hardware, modified by Hieu GL Lite.",
       "oem": "BlueStacks_msi5",
       "rpc_large_key": "msi",
       "rpc_small_key": "base",
@@ -114,7 +117,10 @@
           "icon": "mdi-google-play"
         },
         {
-          "text": "Siêu nhẹ"
+          "text": "Siêu nhẹ | Smooth"
+        },
+        {
+          "text": "Không quảng cáo | No Ads"
         }
       ],
       "requiredRoleID": "",
@@ -154,7 +160,7 @@
     {
       "id": "bs5_gpg",
       "name": "BlueStacks 5",
-      "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực tốt và ổn định, được modify bởi Hiếu GL Lite",
+      "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực tốt và ổn định, được modify bởi Hiếu GL Lite | This is a custom emulator for installing games from Google Play Games, excellent performance and stability, modified by Hieu GL Lite.",
       "oem": "BlueStacks_nxt",
       "rpc_large_key": "bluestacks",
       "rpc_small_key": "gpg",
@@ -170,7 +176,15 @@
           "icon": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg"
         },
         {
-          "text": "Siêu nhẹ"
+          "text": "Siêu nhẹ | Smooth"
+        },{
+          "text": "Tối ưu hóa | Optimized"
+        },  
+        {
+          "text": "Ram ảo | Virtual Memory"
+        },
+        {
+          "text": "Không quảng cáo | No Ads"
         }
       ],
       "requiredRoleID": "1467487666441420880",
@@ -219,7 +233,7 @@
     {
       "id": "bs5_cn_gpg",
       "name": "BlueStacks 5 China",
-      "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực mượt nhờ khả năng tối ưu hóa của BlueStacks phiên bản China, được modify bởi Hiếu GL Lite",
+      "desc": "Đây là trình giả lập tùy chỉnh để cài đặt trò chơi từ Google Play Games, hiệu suất cực mượt nhờ khả năng tối ưu hóa của BlueStacks phiên bản China, được modify bởi Hiếu GL Lite | This is a custom emulator for installing games from Google Play Games, extremely smooth performance thanks to BlueStacks China's optimization, modified by Hieu GL Lite.",
       "oem": "BlueStacks_nxt_cn",
       "rpc_large_key": "bs5_cn",
       "rpc_small_key": "gpg",
@@ -235,7 +249,16 @@
           "icon": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Play_Games_logo_%282023%29.svg"
         },
         {
-          "text": "Siêu nhẹ"
+          "text": "Siêu nhẹ | Smooth"
+        },
+        {
+          "text":"Tối ưu hóa | Optimized"
+        },
+        {
+          "text":"Ram ảo | Virtual Memory"
+        },
+        {
+          "text": "Không quảng cáo | No Ads"
         }
       ],
       "requiredRoleID": "1467487666441420880",
