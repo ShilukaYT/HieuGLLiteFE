@@ -41,7 +41,7 @@
               "fileSize": 1246284959,
               "fileName": "Pie64.db",
               "systemFile": "Root.vhd",
-              "SHA256":"20baf0ef73fa069b6d3b156eca16103aa63331c0636541db783301b8bca45146",
+              "SHA256": "20baf0ef73fa069b6d3b156eca16103aa63331c0636541db783301b8bca45146",
               "zipPassword": null
             }
           ]
@@ -94,8 +94,74 @@
               "zipPassword": null
             }
           ]
+        },
+        {
+          "ver": "5.21.660",
+          "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.21/521660.exe",
+          "fileName": "BlueStacksInstaller_5.21.660_native.exe",
+          "fileSize": 145682942,
+          "SHA256": "40683a37c68a93f0780a0c5c046abf4026cb300d2a8ae36611c33e27ca5c27e3",
+          "androids": [
+            {
+              "name": "Android 7 (32bit)",
+              "code": "Nougat32",
+              "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.21/Nougat32.bin",
+              "fileSize": 510610959,
+              "fileName": "Nougat32.bin",
+              "systemFile": "Root.vhd",
+              "SHA256": "95d395c76d027bf547eb4411d909442bb741299f0ed168da560129f070aa5339",
+              "zipPassword": null
+            },
+            {
+              "name": "Android 9",
+              "code": "Pie64",
+              "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.21/Pie64.bin",
+              "fileSize": 630964417,
+              "fileName": "Pie64.bin",
+              "systemFile": "Root.vhd",
+              "SHA256": "f1a5de85755e4a0882fb5ee73b0c9d44a4aa0bf1cc9f15876a20cfc41c743625",
+              "zipPassword": null
+            }
+          ]
+        },
+        {
+          "ver": "5.21.120",
+          "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.21/521120.exe",
+          "fileName": "BlueStacksInstaller_5.21.120_native.exe",
+          "fileSize": 101485723,
+          "SHA256": "f2ebfed2b24e0d11688669a0cac9d1c991e1373140ecfc9129979f1ed6c7bca5",
+          "androids": [
+            {
+              "name": "Android 7 (32bit)",
+              "code": "Nougat32",
+              "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.21/Nougat32_5.21.120.1025.exe",
+              "fileSize": 480555790,
+              "fileName": "Nougat32_5.21.120.1025.exe",
+              "systemFile": "Root.vhd",
+              "SHA256": "a88877b1c6d8bc6d1c5526f65e4c33945ec69787e2b3148d2840a72ae00ae9ca",
+              "zipPassword": null
+            }
+          ]
+        },
+        {
+          "ver": "5.20.0",
+          "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.20/5200.exe",
+          "fileName": "BlueStacksInstaller_5.20.0_native.exe",
+          "fileSize": 101353112,
+          "SHA256": "e75476eae937b967cfd329ee9c05bbb4c661758500682c4721a576cf8d1e05c2",
+          "androids": [
+            {
+              "name": "Android 7 (32bit)",
+              "code": "Nougat32",
+              "downloadURL": "https://github.com/ShilukaYT/Emulator-BlueStacks-5/releases/download/5.20/Nougat32_5.20.0.1037.exe",
+              "fileSize": 660577753,
+              "fileName": "Nougat32_5.20.0.1037.exe",
+              "systemFile": "Root.vhd",
+              "SHA256": "12ca3869e44f51b96320f8887a4b0959ed672ea2a6253d1def4bd6439b45bae2",
+              "zipPassword": null
+            }
+          ]
         }
-        
       ]
     },
     {
@@ -177,9 +243,10 @@
         },
         {
           "text": "Siêu nhẹ | Smooth"
-        },{
+        },
+        {
           "text": "Tối ưu hóa | Optimized"
-        },  
+        },
         {
           "text": "Ram ảo | Virtual Memory"
         },
@@ -252,10 +319,10 @@
           "text": "Siêu nhẹ | Smooth"
         },
         {
-          "text":"Tối ưu hóa | Optimized"
+          "text": "Tối ưu hóa | Optimized"
         },
         {
-          "text":"Ram ảo | Virtual Memory"
+          "text": "Ram ảo | Virtual Memory"
         },
         {
           "text": "Không quảng cáo | No Ads"
