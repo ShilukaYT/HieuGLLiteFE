@@ -235,7 +235,7 @@
       "isVerifyRequired": false,
       "requiredSize": 10737418240,
       "exeName": "HD-Player.exe",
-      "badge": "",
+      "badge": null,
       "tags": [
         {
           "text": "Google Play",
