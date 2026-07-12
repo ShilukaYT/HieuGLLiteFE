@@ -3,7 +3,7 @@
     "BE_version_latest": "26.6.2",
     "BE_versioncode_latest": "260602",
     "release_date": "2026-06-21",
-    "changelog": "Sửa lỗi và tối ưu hiệu suất ứng dụng.\n- Cập nhật thư viện lõi.\n- Vá lỗi giao diện người dùng.",
+    
     "isMaintenance": false,
     "minRequiredVersionCode": "260602",
     "updateUrl": "https://github.com/ShilukaYT/HieuGLLite-Files/releases/latest/download/HieuGLLiteAppsSetup.exe",
