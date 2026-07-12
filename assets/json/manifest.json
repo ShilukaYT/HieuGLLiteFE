@@ -1,0 +1,23 @@
+{
+  "stable": {
+    "BE_version_latest": "26.6.2",
+    "BE_versioncode_latest": "260602",
+    "release_date": "2026-06-21",
+    "changelog": "Sửa lỗi và tối ưu hiệu suất ứng dụng.\n- Cập nhật thư viện lõi.\n- Vá lỗi giao diện người dùng.",
+    "isMaintenance": false,
+    "minRequiredVersionCode": "260602",
+    "updateUrl": "https://github.com/ShilukaYT/HieuGLLite-Files/releases/latest/download/HieuGLLiteAppsSetup.exe",
+    "sha256": "28918D042715E253D98163B6FB95A49A5A2B0F3502ADEBD672CDFB4C8264B414"
+  },
+  "beta": {
+    "BE_version_latest": "26.7.1",
+    "BE_versioncode_latest": "260701",
+    "release_date": "2026-07-20",
+    "changelog": "Tính năng thử nghiệm (Beta) sẽ không đề cập.",
+    "isMaintenance": false,
+    "minRequiredVersionCode": "260602",
+    "updateUrl": "https://github.com/ShilukaYT/HieuGLLite-Files/releases/260701-Beta/download/HieuGLLiteAppsSetup.exe",
+    "sha256": ""
+  }
+}
+
