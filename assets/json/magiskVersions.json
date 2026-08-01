@@ -1,0 +1,17 @@
+[
+  {
+    "id": "magisk",
+    "name": "Magisk",
+    "desc": "Magisk by topjohnwu",
+    "url": "https://github.com/topjohnwu/Magisk/releases/download/v30.7/Magisk-v30.7.apk",
+    "fileName": "Magisk-v30.7.apk"
+  },
+
+  {
+    "id": "alpha",
+    "name": "Magisk Alpha",
+    "desc": "Magisk from @magiskalpha (Telegram)",
+    "url": "https://github.com/ShilukaYT/HieuGLLiteFE/releases/download/alpha/app-release.apk",
+    "fileName": "Alpha.apk"
+  }
+]
