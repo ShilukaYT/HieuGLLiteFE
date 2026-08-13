@@ -1,12 +1,12 @@
 {
   "stable": {
-    "BE_version_latest": "26.8.0",
-    "BE_versioncode_latest": "260800",
-    "release_date": "2026-08-01",
+    "BE_version_latest": "26.8.1",
+    "BE_versioncode_latest": "260801",
+    "release_date": "2026-08-13",
     "isMaintenance": false,
     "minRequiredVersionCode": "260800",
     "updateUrl": "https://github.com/ShilukaYT/HieuGLLite-Files/releases/latest/download/HieuGLLiteAppsSetup.exe",
-    "sha256": "0F0EBF269B236CB116355C4B2FC1A74E262994C8C3C1B3563981C7DFC4542EBF",
+    "sha256": "F767E608760E10E55DF1E15E3FFEC7C26DB1967FE32C3427EB4E3826F1DD1C5B",
     "args": "/SILENT /SUPPRESSMSGBOXES /NORESTART /CLOSEAPPLICATIONS --apply-update"
   },
   "beta": {

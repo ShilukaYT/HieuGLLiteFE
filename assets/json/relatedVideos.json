@@ -13,9 +13,19 @@
   ],
   "bs5": [
     {
+      "title": "BlueStacks 5.22.167 (Android 9)",
+      "url": "https://www.tiktok.com/@dvh.shiluka/video/7669391934435118357?is_from_webapp=1&sender_device=pc&web_id=7648165112961533447",
+      "thumbnail": ""
+    },
+    {
       "title": "BlueStacks 5.22.51 (Android 7 & Android 9)",
       "url": "https://www.youtube.com/watch?v=twT0w4huKyI",
       "thumbnail": "https://img.youtube.com/vi/twT0w4huKyI/mqdefault.jpg"
+    },
+    {
+      "title": "BlueStacks 5.22.51 - Android 13 (Beta)",
+      "url": "https://www.tiktok.com/@dvh.shiluka/video/7545867901258042632?is_from_webapp=1&sender_device=pc&web_id=7648165112961533447",
+      "thumbnail": ""
     },
     {
       "title": "BlueStacks 5.21.660 Debloat & Debloat GG (Android 9)",
@@ -50,6 +60,11 @@
       "thumbnail": "https://img.youtube.com/vi/sp6lmChL53U/mqdefault.jpg"
     },
     {
+      "title": "MSI App Player 5.22.71 Android 9 (Có & không Google)",
+      "url": "https://www.tiktok.com/@dvh.shiluka/video/7632971805916974357?is_from_webapp=1&sender_device=pc&web_id=7648165112961533447",
+      "thumbnail": ""
+    },
+    {
       "title": "MSI 5.21 Pie64 Debloat & Debloat GG",
       "url": "https://youtu.be/pFLLcpExBEQ",
       "thumbnail": "https://img.youtube.com/vi/pFLLcpExBEQ/mqdefault.jpg"
@@ -73,5 +88,23 @@
       "url": "https://www.tiktok.com/@dvh.shiluka/video/7647183183552711956?is_from_webapp=1&sender_device=pc&web_id=7648165112961533447",
       "thumbnail": ""
     }
+  ],
+  "bs5_cn_gpg": [
+    {
+      "title": "BlueStacks China 5.22.170 (GPG - Android 13)",
+      "url": "https://www.tiktok.com/@dvh.shiluka/video/7648152094372826389?is_from_webapp=1&sender_device=pc&web_id=7648165112961533447",
+      "thumbnail": ""
+    },
+    {
+      "title": "BlueStacks China 5.22.170 (GPG - Android 9)",
+      "url": "https://www.tiktok.com/@dvh.shiluka/video/7652952064900746516?is_from_webapp=1&sender_device=pc&web_id=7648165112961533447",
+      "thumbnail": ""
+    },
+    {
+      "title": "BlueStacks China 5.22.91 (GPG - Android 9)",
+      "url": "https://www.tiktok.com/@dvh.shiluka/video/7595660994848787732?is_from_webapp=1&sender_device=pc&web_id=7648165112961533447",
+      "thumbnail": ""
+    }
+
   ]
 }
